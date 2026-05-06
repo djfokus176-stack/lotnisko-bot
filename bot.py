@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 TELEGRAM_TOKEN = "8748041690:AAFuYYqXyljn58y--CwTnEoMFRsoacyGM_I"
 # ============================================
 
-CHANNEL_ID = "@tanieloty_polskabot"
+CHANNEL_ID = "@tanieloty_polska"
 
 # Twoje linki affiliate
 LINKS = {
