@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 # ============================================
 # WKLEJ SWÓJ TOKEN TUTAJ (tylko to zmieniasz!)
 # ============================================
-TELEGRAM_TOKEN = "TUTAJ_WKLEJ_SWÓJ_TOKEN"
+TELEGRAM_TOKEN = "8748041690:AAFuYYqXyljn58y--CwTnEoMFRsoacyGM_I"
 # ============================================
 
 CHANNEL_ID = "@tanieloty_polskabot"
