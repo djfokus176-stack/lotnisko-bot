@@ -17,7 +17,10 @@ LINKS = {
     "aviasales": "https://aviasales.tpo.lv/a5ePeaBz",
     "yesim": "https://yesim.tpo.lv/JRGoRtEH",
     "kiwitaxi": "https://kiwitaxi.tpo.lv/cnleRIp7",
-    "airalo": "https://airalo.tpo.lv/GrSf3nQe"
+    "airalo": "https://airalo.tpo.lv/GrSf3nQe",
+    "tiqets": "https://tiqets.tpo.lv/DTrEk5wD",
+    "gettransfer": "https://gettransfer.tpo.lv/D7uMs6GR",
+    "radicalstorage": "https://radicalstorage.tpo.lv/dUV2A1sr"
 }
 
 # Polskie lotniska
